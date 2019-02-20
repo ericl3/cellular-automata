@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Spreading Fire</title>
+    <numRows>2</numRows>
+    <numCols>50</numCols>
+    <isTorus>off</isTorus>
+    <verticesAsNeighbors>off</verticesAsNeighbors>
+    <gridOutline>on</gridOutline>
+    <gridType>rectangle</gridType>
+    <cells>
+        <cell>
+            <row>1</row>
+            <col>2</col>
+            <state>burning</state>
+        </cell>
+    </cells>
+    <params>
+        <probabilityOfCatchingFire>1</probabilityOfCatchingFire>
+    </params>
+</data>

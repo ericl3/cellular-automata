@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Segregation</title>
+    <numRows>40</numRows>
+    <numCols>80</numCols>
+    <isTorus>off</isTorus>
+    <gridOutline>on</gridOutline>
+    <verticesAsNeighbors>on</verticesAsNeighbors>
+    <gridType>triangle</gridType>
+    <cells>
+        <cell>
+            <row>1</row>
+            <col>2</col>
+            <state>red</state>
+        </cell>
+    </cells>
+    <params>
+        <percentSimilarSatisfaction>70</percentSimilarSatisfaction>
+        <probRed>0.5</probRed>
+        <percentEmpty>10</percentEmpty>
+    </params>
+</data>

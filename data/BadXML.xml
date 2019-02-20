@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Game of Life</title>
+    <xDimension>50</xDimension>
+    <yDimension>50</yDimension>
+    <cells>
+        <!--<cell>-->
+            <!--<x>1</x>-->
+            <!--<y>2</y>-->
+            <!--<state>alive</state>-->
+        <!--</cell>-->
+    </cells>
+    <params>
+
+    </params>
+</data>

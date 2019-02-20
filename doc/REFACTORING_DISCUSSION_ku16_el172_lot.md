@@ -1,0 +1,4 @@
+1. We chose to refactor duplicated code by looking closely at things like if trees especially, and seeing where similar code was being used. We then made these into methods that could be called.
+2. The tool found a lot of magic numbers for us to change - we changed many of these magic numbers, but still have a ways to go. Because these are as simple as just extracting a constant in intellij, we plan to do the majority of this later, after the code is functional.
+3. We chose to refactor many of the long and convoluted if trees to make them into method calls - some of this has been completed, but we will complete the rest after the code is functional.
+4. We chose to break up long methods into smaller chunks with more aptly named submethods. This makes the code much easier to read and understand, while also allowing us to reuse methods much more easily.

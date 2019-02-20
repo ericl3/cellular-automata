@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Wa-Tor World</title>
+    <numRows>40</numRows>
+    <numCols>40</numCols>
+    <gridType>rectangle</gridType>
+    <gridOutline>on</gridOutline>
+    <cells>
+        <cell>
+            <row>1</row>
+            <col>2</col>
+            <state>fish</state>
+        </cell>
+    </cells>
+    <params>
+        <turnsForFishToBreed>2</turnsForFishToBreed>
+        <fishBeforeSharksDie>3</fishBeforeSharksDie>
+        <fishBeforeSharksBreed>5</fishBeforeSharksBreed>
+        <percentFish>50</percentFish>
+        <percentShark>5</percentShark>
+    </params>
+</data>

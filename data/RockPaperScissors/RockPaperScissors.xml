@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Rock Paper Scissors</title>
+    <numRows>40</numRows>
+    <numCols>40</numCols>
+    <gridOutline>on</gridOutline>
+    <gridType>rectangle</gridType>
+    <cells>
+        <cell>
+            <row>1</row>
+            <col>2</col>
+            <state>red</state>
+        </cell>
+    </cells>
+    <params>
+        <probRed>0.30</probRed>
+        <probBlue>.25</probBlue>
+        <percentEmpty>25</percentEmpty>
+    </params>
+</data>

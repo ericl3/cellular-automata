@@ -1,0 +1,9 @@
+.default-color0.chart-series-line {-fx-stroke: white}
+.default-color0.chart-line-symbol {-fx-background-color: white}
+.default-color1.chart-series-line {-fx-stroke: blue}
+.default-color1.chart-line-symbol {-fx-background-color: blue}
+.default-color2.chart-series-line {-fx-stroke: red}
+.default-color2.chart-line-symbol {-fx-background-color: red}
+.chart-plot-background{
+    -fx-background-color: darkgrey
+}

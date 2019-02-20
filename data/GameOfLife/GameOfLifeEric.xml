@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Game">
+    <title>Game of Life</title>
+    <numRows>40</numRows>
+    <numCols>80</numCols>
+    <gridOutline>off</gridOutline>
+    <isTorus>on</isTorus>
+    <gameSpeed>2.0</gameSpeed>
+    <verticesAsNeighbors>on</verticesAsNeighbors>
+    <gridType>triangle</gridType>
+    <cells>
+        <cell>
+            <row>1</row>
+            <col>2</col>
+            <state>alive</state>
+        </cell>
+    </cells>
+    <params>
+        <percentAlive>30</percentAlive>
+    </params>
+</data>
